@@ -1,6 +1,6 @@
 ---
 author: "Abhilash Raj"
-date: Sun Sep 2 17:02:01
+date: 09-2-2018
 linktitle: About
 title: About
 menu: main
